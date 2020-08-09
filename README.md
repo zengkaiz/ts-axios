@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TypeScript library starter
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
@@ -167,3 +168,6 @@ Made with :heart: by [@alexjoverm](https://twitter.com/alexjoverm) and all these
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind are welcome!
+=======
+# ts-axios
+>>>>>>> f0b910ef5ce7b11a72207814de70ed579ec57f66
